@@ -2159,3 +2159,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u449 {
+  border-width:0px;
+  position:absolute;
+  left:519px;
+  top:900px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
