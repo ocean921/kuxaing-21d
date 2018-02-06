@@ -50,6 +50,7 @@
 }
 ._文本段落 {
   text-align:left;
+  line-height:28px;
 }
 ._图片 {
 }
@@ -89,6 +90,8 @@
 .image {
 }
 .placeholder {
+}
+.button {
 }
 .text_area {
   color:#000000;
