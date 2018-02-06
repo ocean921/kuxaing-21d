@@ -1528,9 +1528,10 @@
 #u272_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:28px;
-  width:103px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u273_img {
@@ -1552,9 +1553,10 @@
 #u273_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:28px;
-  width:80px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u274_img {
@@ -1576,9 +1578,10 @@
 #u274_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:28px;
-  width:127px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u275_img {

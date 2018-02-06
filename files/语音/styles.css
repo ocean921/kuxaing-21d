@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1634 {
+#u1633 {
   border-width:0px;
   position:absolute;
   left:55px;
@@ -20,7 +20,7 @@
   width:670px;
   height:380px;
 }
-#u1634_img {
+#u1633_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:671px;
   height:381px;
 }
-#u1634_ref {
+#u1633_ref {
   border-width:0px;
   position:absolute;
   left:717px;
@@ -36,7 +36,7 @@
   width:1px;
   height:1px;
 }
-#u1635 {
+#u1634 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -44,7 +44,7 @@
   width:0px;
   height:0px;
 }
-#u1636_img {
+#u1635_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -52,7 +52,7 @@
   width:40px;
   height:38px;
 }
-#u1636 {
+#u1635 {
   border-width:0px;
   position:absolute;
   left:667px;
@@ -60,9 +60,35 @@
   width:40px;
   height:38px;
 }
-#u1636_img.selected {
+#u1635_img.selected {
 }
-#u1636.selected {
+#u1635.selected {
+}
+#u1635_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1636_img {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:23px;
+  height:23px;
+}
+#u1636 {
+  border-width:0px;
+  position:absolute;
+  left:677px;
+  top:335px;
+  width:20px;
+  height:20px;
+  opacity:0.7;
 }
 #u1636_text {
   border-width:0px;
@@ -102,38 +128,12 @@
 #u1638_img {
   border-width:0px;
   position:absolute;
-  left:-1px;
-  top:-1px;
-  width:23px;
-  height:23px;
-}
-#u1638 {
-  border-width:0px;
-  position:absolute;
-  left:677px;
-  top:335px;
-  width:20px;
-  height:20px;
-  opacity:0.7;
-}
-#u1638_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u1639_img {
-  border-width:0px;
-  position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:38px;
 }
-#u1639 {
+#u1638 {
   border-width:0px;
   position:absolute;
   left:667px;
@@ -141,7 +141,7 @@
   width:40px;
   height:38px;
 }
-#u1639_text {
+#u1638_text {
   border-width:0px;
   position:absolute;
   left:0px;
